@@ -1,6 +1,6 @@
 // DesignPattern: Exercise 1
 
-package Week1.DesignPattern.Exercise1;
+package Week1_DesignPatternsAndPrinciples.Exercise1_Singleton;
 
 public class SingletonPatternExample {
 

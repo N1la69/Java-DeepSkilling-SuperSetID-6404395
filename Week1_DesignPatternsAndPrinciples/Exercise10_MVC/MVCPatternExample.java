@@ -1,6 +1,6 @@
 // DesignPattern: Exercise 10
 
-package Week1.DesignPattern.Exercise10;
+package Week1_DesignPatternsAndPrinciples.Exercise10_MVC;
 
 public class MVCPatternExample {
 

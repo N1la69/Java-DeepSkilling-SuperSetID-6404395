@@ -1,6 +1,6 @@
 // DSA: Exercise 4
 
-package Week1.DSA.Exercise4;
+package Week1_DataStructuresAndAlgorithms.Exercise4_EmployeeManagementSystem;
 
 public class EmployeeManagementSystem {
 

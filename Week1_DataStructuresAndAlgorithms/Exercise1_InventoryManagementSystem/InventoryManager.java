@@ -1,6 +1,6 @@
 // DSA: Exercise 1
 
-package Week1.DSA.Exercise1;
+package Week1_DataStructuresAndAlgorithms.Exercise1_InventoryManagementSystem;
 
 import java.util.HashMap;
 

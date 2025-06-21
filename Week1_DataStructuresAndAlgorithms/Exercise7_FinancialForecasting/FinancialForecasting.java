@@ -1,6 +1,6 @@
 // DSA: Exercise 7
 
-package Week1.DSA.Exercise7;
+package Week1_DataStructuresAndAlgorithms.Exercise7_FinancialForecasting;
 
 public class FinancialForecasting {
 

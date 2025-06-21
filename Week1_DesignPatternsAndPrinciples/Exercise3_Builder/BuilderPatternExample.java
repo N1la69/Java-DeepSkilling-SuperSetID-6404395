@@ -1,6 +1,6 @@
 // DesignPattern: Exercise 3
 
-package Week1.DesignPattern.Exercise3;
+package Week1_DesignPatternsAndPrinciples.Exercise3_Builder;
 
 public class BuilderPatternExample {
 

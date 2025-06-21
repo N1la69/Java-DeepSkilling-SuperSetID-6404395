@@ -1,7 +1,5 @@
 // DSA: Exercise 2
 
-package Week1.DSA.Exercise2;
-
 import java.util.Arrays;
 import java.util.Comparator;
 

@@ -1,6 +1,6 @@
 // DesignPattern: Exercise 11
 
-package Week1.DesignPattern.Exercise11;
+package Week1_DesignPatternsAndPrinciples.Exercise11_DependencyInjection;
 
 public class DependencyInjectionExample {
     interface CustomerRepository {

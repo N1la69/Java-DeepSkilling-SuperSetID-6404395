@@ -1,6 +1,6 @@
 // DSA: Exercise 3
 
-package Week1.DSA.Exercise3;
+package Week1_DataStructuresAndAlgorithms.Exercise3_SortingCustomerOrders;
 
 public class OrderSorter {
 

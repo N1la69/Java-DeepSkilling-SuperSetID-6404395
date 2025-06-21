@@ -1,6 +1,6 @@
 // DSA: Exercise 5
 
-package Week1.DSA.Exercise5;
+package Week1_DataStructuresAndAlgorithms.Exercise5_TaskManagementSystem;
 
 public class TaskManagementSystem {
 

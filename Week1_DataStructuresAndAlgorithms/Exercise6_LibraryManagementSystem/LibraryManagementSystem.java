@@ -1,6 +1,6 @@
 // DSA: Exercise 6
 
-package Week1.DSA.Exercise6;
+package Week1_DataStructuresAndAlgorithms.Exercise6_LibraryManagementSystem;
 
 import java.util.Arrays;
 import java.util.Comparator;

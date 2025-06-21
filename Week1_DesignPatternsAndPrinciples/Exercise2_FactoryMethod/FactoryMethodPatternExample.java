@@ -1,6 +1,6 @@
 // DesignPattern: Exercise 2
 
-package Week1.DesignPattern.Exercise2;
+package Week1_DesignPatternsAndPrinciples.Exercise2_FactoryMethod;
 
 public class FactoryMethodPatternExample {
 
